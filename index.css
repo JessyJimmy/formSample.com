@@ -10,11 +10,11 @@ body{
     width: 100%;
     height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: linear-gradient(-45deg, #ee7752, #e73ce7, #39e9d5, #3aa4f5, #e73c3c);
+    /* background: linear-gradient(-45deg, #ee7752, #e73ce7, #39e9d5, #3aa4f5, #e73c3c);
     background-size: 500% 400%;
-    animation: gradientBG 15s ease infinite;
+    animation: gradientBG 15s ease infinite; */
 }
-@keyframes gradientBG {
+/* @keyframes gradientBG {
     0% {
         background-position: 0% 50%;
     }
@@ -24,7 +24,7 @@ body{
     100% {
         background-position: 0% 50%;
     }
-}
+} */
 header{
     display: flex;
     justify-content: space-between;
